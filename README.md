@@ -6,3 +6,5 @@ Splyce is a simple web-crawler built in PHP. For this project I took input throu
 Please make sure to check the database info if you find an error. 
 
 Needs Styling.
+
+Need to make injection proof
